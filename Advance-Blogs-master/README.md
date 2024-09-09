@@ -1,4 +1,4 @@
-Please view my website: https://vivek-kadam1275.github.io/Advance-Blogs/
+Please view my website: https://pranalinere.github.io/Advance-Blogs/
 
 # Getting Started with Create React App
 
